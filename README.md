@@ -1,2 +1,4 @@
 # beginnerpythoncode
-A collection of my beginner python code with different functions.    Est. Fall 2020
+A collection of my beginner python code with different functions.   
+Includes games, conversion calculators, puzzles, and more.
+Est. October 2020
